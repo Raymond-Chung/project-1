@@ -1,19 +1,4 @@
 """
-work in virtual envrionment (uv - https://docs.astral.sh/uv/pip/environments/)
-
-git steps:
-git status
-git add .
-git commit -m "some messge"
-git push origin head (to push main)
-
-git push origin image-recognition/
-
-add branch git checkout -b image-recognition
-git checkout main
-"""
-
-"""
 notes
 python has trouble to varity SSL certifcate of google storage
 do cd into pythong and run -> Install Certificates.command
